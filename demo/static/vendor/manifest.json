@@ -1,0 +1,32 @@
+[
+  {
+    "file": "cytoscape.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/cytoscape@3.33.1/dist/cytoscape.min.js",
+    "sha256": "f55947f3daa3bae53209d4b885c195c157f595c225e508a6b382598d9452d6e2",
+    "bytes": 434037
+  },
+  {
+    "file": "cytoscape-LICENSE.txt",
+    "url": "https://cdn.jsdelivr.net/npm/cytoscape@3.33.1/LICENSE",
+    "sha256": "e4b62495bacaefaf330f38f226e20d1d60d658d444998ba7406a191f96a2e701",
+    "bytes": 1082
+  },
+  {
+    "file": "swagger-ui-bundle.js",
+    "url": "https://cdn.jsdelivr.net/npm/swagger-ui-dist@5.17.14/swagger-ui-bundle.js",
+    "sha256": "c2e4a9ef08144839ff47c14202063ecfe4e59e70a4e7154a26bd50d880c88ba1",
+    "bytes": 1452753
+  },
+  {
+    "file": "swagger-ui.css",
+    "url": "https://cdn.jsdelivr.net/npm/swagger-ui-dist@5.17.14/swagger-ui.css",
+    "sha256": "40170f0ee859d17f92131ba707329a88a070e4f66874d11365e9a77d232f6117",
+    "bytes": 152071
+  },
+  {
+    "file": "swagger-LICENSE.txt",
+    "url": "https://cdn.jsdelivr.net/npm/swagger-ui-dist@5.17.14/LICENSE",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "bytes": 11358
+  }
+]
